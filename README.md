@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anuska</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Python and MySQL**
+
 - 📫 How to reach me **anuska.maharana2003@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and always with a straight face.**
+- ⚡ Fun fact **I’m told I’m funny, though I never show it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
