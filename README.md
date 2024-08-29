@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anuska05
-- 🌱 I’m currently learning HTML, CSS,Javascripta and Python
+- 🌱 I’m currently learning HTML, CSS,Javascript, Python and  MySQL.
 - 📫 How to reach me : anuska.maharana2003@gmail.com
 
 <!---
